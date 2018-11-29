@@ -8,8 +8,8 @@ What types of changes does your code introduce to [ENTER PROJECT NAME HERE]?
 _Put an `x` in the boxes that apply_
 
 - [ ] Bugfix (non-breaking change which fixes an issue)
+- [ ] Resolves an existing feature request (non-breaking change which fixes an existing feature request)
 - [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
 ## Checklist
 
