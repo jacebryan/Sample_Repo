@@ -1,3 +1,8 @@
+---
+name: Feature request
+about: Suggest a new feature or enhancement
+---
+
 What should [ENTER PROJET NAME HERE] do differently? Which functionality do you think we should add?
 ----------------------------------------------------------------------------------
 
