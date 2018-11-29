@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Want to see something new or see something improved?
 about: Suggest a new feature or enhancement
 ---
 
