@@ -21,6 +21,3 @@ Any logs, error output, etc?
 Any other comments?
 -------------------------------------------
 …
-
-## Acknowledgements
-Thanks to https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md who helped shape this Issue template.
