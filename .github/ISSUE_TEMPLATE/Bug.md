@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Found a potential Bug?
 about: Report a problem to help us resolve it
 ---
 
