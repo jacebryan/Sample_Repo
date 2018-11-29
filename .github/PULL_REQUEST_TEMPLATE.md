@@ -18,7 +18,7 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 
 - [ ] I have read the [CONTRIBUTING](https://github.com/appium/appium/blob/master/CONTRIBUTING.md) doc
 - [ ] I have signed the [CLA](https://cla.js.foundation/appium/appium)
-- [ ] Lint and unit tests pass locally with my changes
+- [ ] Unit tests pass locally with my changes
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] I have added necessary documentation (if appropriate)
 - [ ] Any dependent changes have been merged and published in downstream modules
@@ -26,7 +26,3 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 ## Further comments
 
 If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
-
-## Acknowledgements
-
-Thanks to https://github.com/devspace/awesome-github-templates & https://github.com/appium/appium who helped shape this PR template.
