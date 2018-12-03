@@ -1,4 +1,4 @@
-# Sample_Repo
+# Starter_Repo
 
 ## Synopsis
 
@@ -14,9 +14,9 @@ Provide code examples and explanations of how to get the project.
 
 ## Maintenance and Collaboration
 
-If you are interested in learning about the project roles, roadmap, how to become a collaborator, and/or where to find the community surrounding this project, then please review our <a href="https://github.com/jacebryan/Sample_Repo/blob/master/Maintenance-Policy.md" target="_blank">Maintenance Policy</a>. 
+If you are interested in learning about the project roles, roadmap, how to become a collaborator, and/or where to find the community surrounding this project, then please review our <a href="https://github.com/jacebryan/Starter_Repo/blob/master/Maintenance-Policy.md" target="_blank">Maintenance Policy</a>. 
 
-Additionally, please see the <a href="https://github.com/jacebryan/Sample_Repo/issues" target="_blank"> Issues section </a> where we’ve added some suggestions for further development opportunities for those interested.
+Additionally, please see the <a href="https://github.com/jacebryan/Starter_Repo/issues" target="_blank"> Issues section </a> where we’ve added some suggestions for further development opportunities for those interested.
 
 ## Documentation and Other Resources
 
