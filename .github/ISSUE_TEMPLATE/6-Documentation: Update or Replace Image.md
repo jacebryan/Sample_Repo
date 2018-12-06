@@ -1,5 +1,5 @@
 ---
-name: Do you see images in our documentation that need to be updated?
+name: Do you see images that need to be updated?
 about: Suggest updates to existing documentation
 ---
 
