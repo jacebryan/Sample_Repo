@@ -13,6 +13,6 @@ What are you trying to do?
 
 
 
-Tell us how our Project has helped you or your organization? We love a good compliment!
+Tell us how this request would help you or your organization. We love a good user story!
 -------------------------------------------------
 
