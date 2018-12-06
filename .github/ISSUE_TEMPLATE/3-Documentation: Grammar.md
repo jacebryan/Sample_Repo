@@ -15,21 +15,6 @@ Document URL
 ...
 
 
-Page # that contains the grammatical error
+Please drag and drop your grammar changes here and we will review upon submission
 -------------------------------------------
 ...
-
-
-Section that contains the grammatical error
--------------------------------------------
-...
-
-
-Copy and paste the sentence or paragraph that contains the grammatical error
--------------------------------------------
-...
-
-Please drag and drop any screenshots to help clarify the issue you are seeing
--------------------------------------------
-...
-
