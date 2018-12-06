@@ -1,6 +1,6 @@
 ---
 name: Found a grammatical error?
-about: Suggest updates to documentation
+about: Suggest updates to existing documentation
 ---
 
 Thank you for your submission! Please provide us with the following information:
