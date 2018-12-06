@@ -29,3 +29,7 @@ Copy and paste the sentence or paragraph that contains the grammatical error
 -------------------------------------------
 ...
 
+Please drag and drop any screenshots to help clarify the issue you are seeing
+-------------------------------------------
+...
+
