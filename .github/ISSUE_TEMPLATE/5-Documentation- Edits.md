@@ -1,6 +1,6 @@
 ---
-name: Have some suggested Edits?
-about: Suggest updates to existing documentation
+name: Have some suggested Content Edits?
+about: Suggest Edits to existing documentation
 ---
 
 Thank you for your submission! Please provide us with the following information:
