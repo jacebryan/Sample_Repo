@@ -1,6 +1,7 @@
 ---
 name: Want to see something new or see something improved?
 about: Suggest a new feature or enhancement
+labels: enhancement
 ---
 
 What should we do differently? Which functionality do you think we should add?
