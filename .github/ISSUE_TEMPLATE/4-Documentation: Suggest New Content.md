@@ -1,6 +1,7 @@
 ---
 name: Have ideas for new content?
 about: Suggest new documentation content
+label: new content
 ---
 
 Thank you for your submission! Please provide us with the following information:
