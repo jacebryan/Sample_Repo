@@ -1,6 +1,7 @@
 ---
 name: Do you see images that need to be updated?
 about: Suggest updates to existing documentation
+label: update content
 ---
 
 Thank you for your submission! Please provide us with the following information:
