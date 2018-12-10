@@ -1,7 +1,7 @@
 ---
 name: Have some suggested Content Edits?
 about: Suggest Edits to existing documentation
-labels: edit content
+labels: documentation
 ---
 
 Thank you for your submission! Please provide us with the following information:
