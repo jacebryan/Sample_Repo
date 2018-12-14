@@ -2,35 +2,35 @@
 
 ## Synopsis
 
-A short introduction and/or overview that explains what the project is. 
+> This section should include a short introduction and/or overview that explains what the project is. 
+
+*Note*: Be sure to include the following statement at the bottom of this section:
+
+_This project is part of the [Salesforce.org](http://salesforce.org/) Open Source Commons program, which exists to instill a culture of community-driven impact through a sustainable open source community methodology focused on the incubation of qualifying community-led projects. To learn more about this program please review ...
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
+> This section should include a short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+> This section should provide code examples and explanations of how to get the project.
+
+## Documentation and Other Resources
+
+### Documentation Guides
+
+> This section should include links to supporting project documentation such as user guides, installation and configuration guides, technical guides, data dictionaries, FAQs, and ERDs.
+
+> **Pro Tip**: Upload all of your project documentation in the “docs” folder of your repo.
+
+
 
 ## Maintenance and Collaboration
 
 If you are interested in learning about the project roles, roadmap, how to become a collaborator, and/or where to find the community surrounding this project, then please review our <a href="https://github.com/jacebryan/Starter_Repo/blob/master/Maintenance-Policy.md" target="_blank">Maintenance Policy</a>. 
 
 Additionally, please see the <a href="https://github.com/jacebryan/Starter_Repo/issues" target="_blank"> Issues section </a> where we’ve added some suggestions for further development opportunities for those interested.
-
-## Documentation and Other Resources
-
-### Documentation Guides
-
-Links to supporting documentation such as overviews, user guides, installation and configuration guides, technical guides, data dictionaries, FAQs, and ERDs.
-
-### Implementation Guides (not required)
-
-Links to implementation documentation such as project plans, timelines, and training plans.
-
-### Additional Implementation Resources (not required)
-
-Example: A file with Sample Data along with an explanation on how to import.
 
 ## License
 
