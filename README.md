@@ -20,11 +20,34 @@ _This project is part of the [Salesforce.org](http://salesforce.org/) Open Sourc
 
 > **Pro Tip**: Create a folder in your repo called "Docs" and upload all of your project documentation there.
 
-## Maintenance and Collaboration
+## Code of Conduct
 
-If you are interested in learning about the project roles, roadmap, how to become a collaborator, and/or where to find the community surrounding this project, then please review our <a href="https://github.com/jacebryan/Starter_Repo/blob/master/Maintenance-Policy.md" target="_blank">Maintenance Policy</a>. 
+> This section includes a Code of Conduct and should not be edited and/or removed.
 
-Additionally, please see the <a href="https://github.com/jacebryan/Starter_Repo/issues" target="_blank"> Issues section </a> where we’ve added some suggestions for further development opportunities for those interested.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. 
+
+Read our [Code of Conduct](https://github.com/jacebryan/Starter_Repo/blob/master/CODE_OF_CONDUCT.md) to ensure you understand Our Standards, Our Responsibilities, Scope, and Enforcement. 
+
+If you have any questions about this of if you see a violation(s) of this code of conduct by members of this community please contact the Project Team Lead immediately.
+
+We have zero tolerance for anyone who violates our Code of Conduct.
+
+## Maintenance, Collaboration, and Contributions
+
+> This section should include guidelines that highlight how the project is being managed and provides information on how to get involved. **Note**: the information that has been included below should not deter the Project Team from creating their own guidelines for volunteering and linking them here.
+
+If you are interested in learning about project roadmap, how issues and disputes are resolved, as well as who the Project Maintainers are please review our .... 
+
+If you are interested in Contributing please review our ...
+
+To learn more about what it takes to volunteer your time please review ...
+
+## Contributor License Agreement
+
+> This section includes the [Salesforce.org](http://salesforce.org/) Open Source Commons Contributor License Agreement (CLA) and should not be edited and/or removed.
+
+Before we can accept any contribution you will need to read and sign the ...
+
 
 ## License
 
