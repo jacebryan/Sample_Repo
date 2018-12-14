@@ -16,8 +16,6 @@ _This project is part of the [Salesforce.org](http://salesforce.org/) Open Sourc
 
 ## Documentation and Other Resources
 
-### Documentation Guides
-
 > This section should include links to supporting project documentation such as user guides, installation and configuration guides, technical guides, data dictionaries, FAQs, and ERDs.
 
 > **Pro Tip**: Create a folder in your repo called "Docs" and upload all of your project documentation there.
