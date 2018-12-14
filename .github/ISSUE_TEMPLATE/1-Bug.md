@@ -2,6 +2,7 @@
 name: Found a potential Bug?
 about: Report a problem to help us resolve it
 labels: Type - Bug
+project: Bugs
 ---
 
 Thanks for reporting an issue! Please make sure you click the link above to view the issue guidelines, then fill out the blanks below.
