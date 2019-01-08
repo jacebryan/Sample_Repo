@@ -4,8 +4,6 @@
 
 > This section should include a short introduction and/or overview that explains what the project is. **Note**: Be sure to include the following statement at the bottom of this section:
 
-_This project is part of the [Salesforce.org](http://salesforce.org/) Open Source Commons program, which exists to instill a culture of community-driven impact through a sustainable open source community methodology focused on the incubation of qualifying community-led projects. To learn more about this program please review ..._
-
 ## Motivation
 
 > This section should include a short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
