@@ -40,13 +40,6 @@ If you are interested in Contributing please review our ...
 
 To learn more about what it takes to volunteer your time please review ...
 
-## Contributor License Agreement
-
-> This section includes the [Salesforce.org](http://salesforce.org/) Open Source Commons Contributor License Agreement (CLA) and should not be edited and/or removed.
-
-Before we can accept any contribution you will need to read and sign the ...
-
-
 ## License
 
 Forthcoming...
