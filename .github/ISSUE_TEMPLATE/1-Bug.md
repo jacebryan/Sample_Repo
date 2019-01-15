@@ -1,5 +1,4 @@
 ---
-title: Example: HEDA Settings > System: Automatic Household Naming is not working as expected when adding a new contact to the household
 name: Found a potential Bug?
 about: Report a problem to help us resolve it
 labels: Type - Bug
