@@ -6,7 +6,11 @@ labels: Type - Documentation
 
 Thank you for your submission! Please provide us with the following information:
 
-Title of the proposed Document
+Title of the Document
+-------------------------------------------
+...
+
+Document URL
 -------------------------------------------
 ...
 
