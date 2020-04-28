@@ -2,6 +2,8 @@
 name: Want to be a Contributor to a project?
 about: Support a project as a Contributor
 labels: Access - Contributor
+title: Contributor Access Request
+Assignees: jacebryan
 ---
 
 Contributor access is granted to an individual who is not part of a core development team and wants to contribute some changes to a specific project.
