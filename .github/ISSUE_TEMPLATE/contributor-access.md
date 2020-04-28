@@ -1,6 +1,6 @@
 ---
 name: Want to be a Contributor to a project?
-about: Support a project as a Contributor
+about: Support a project as a non-member of the core develompent team
 labels: Access - Contributor
 title: Contributor Access Request
 assignees: jacebryan
