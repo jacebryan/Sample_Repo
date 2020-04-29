@@ -1,6 +1,6 @@
 ---
 name: Want to be a Collaborator on a project?
-about: Support a project as a member of the core develompent team
+about: Support a project as a member of the core development team
 labels: Access - Collaborator
 title: Collaborator Access Request
 assignees: jacebryan
